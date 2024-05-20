@@ -1,0 +1,20 @@
+{
+  "name": "obsidian-recipe-plugin",
+  "version": "0.1.0",
+  "description": "A plugin to display recipes in a new panel",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^14.0.0",
+    "obsidian": "^0.12.0",
+    "typescript": "^4.0.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

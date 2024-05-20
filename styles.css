@@ -1,0 +1,7 @@
+.ingredient { color: green; /* Default color, can be overridden by plugin settings */ }
+
+.quantity { color: yellow; /* Default color, can be overridden by plugin settings */ }
+
+.technique { color: orange; /* Default color, can be overridden by plugin settings */ }
+
+.time { color: red; /* Default color, can be overridden by plugin settings */ }
